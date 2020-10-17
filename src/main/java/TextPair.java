@@ -79,4 +79,13 @@ public class TextPair implements WritableComparable<TextPair> {
     public TextPair reverse() {
         return new TextPair(second,first);
     }
+
+    @Override
+    public int compareTo(TextPair tp) {
+        int cmp=first.compareTo(tp.getFirst());
+        if(cmp!=0)
+            return cmp;
+        return second.compareTo(tp.getSecond());
+
+    }
 }
