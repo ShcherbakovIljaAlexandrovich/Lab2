@@ -3,6 +3,15 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9b5a4452-f95f-47aa-80f5-310c144fbcf8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,5 +66,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="268" width="434" height="487" key="FileChooserDialogImpl" timestamp="1602918241647">
+      <screen x="0" y="31" width="1920" height="953" />
+    </state>
+    <state x="743" y="268" width="434" height="487" key="FileChooserDialogImpl/0.31.1920.953@0.31.1920.953" timestamp="1602918241647" />
   </component>
 </project>
