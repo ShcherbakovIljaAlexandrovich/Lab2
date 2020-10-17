@@ -16,7 +16,6 @@ public class TextPair implements WritableComparable<TextPair> {
     }
 
     public TextPair(Text first, Text second) {
-        //super();
         this.first = first;
         this.second = second;
     }
@@ -86,6 +85,5 @@ public class TextPair implements WritableComparable<TextPair> {
         if(cmp!=0)
             return cmp;
         return second.compareTo(tp.getSecond());
-
     }
 }
