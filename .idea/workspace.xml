@@ -14,6 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b5a4452-f95f-47aa-80f5-310c144fbcf8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/AvgDelayCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AvgDelayCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/JoinReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JoinReducer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,5 +80,9 @@
       <screen x="0" y="31" width="1366" height="737" />
     </state>
     <state x="489" y="179" width="990" height="696" key="dock-window-1/0.31.1366.737@0.31.1366.737" timestamp="1602964475907" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602966073175">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.31.1366.737@0.31.1366.737" timestamp="1602966073175" />
   </component>
 </project>
