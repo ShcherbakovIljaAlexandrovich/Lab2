@@ -13,7 +13,14 @@ public class JoinReducer extends Reducer<TextPair, Text, Text, IntWritable> {
         if (!iter.hasNext()) return;
         int min = Integer.parseInt(iter.next().toString());
         int max = min;
-        int avg = min;
-        
+        int sum = min;
+        int n = 1;
+        while (iter.hasNext()) {
+            int cur = Integer.parseInt(iter.next().toString());
+            if (cur<min) min = cur;
+            if (cur>max) max = cur;
+            sum += cur;
+            n++;
+        }
     }
 }
