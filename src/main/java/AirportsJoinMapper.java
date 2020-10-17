@@ -10,6 +10,7 @@ public class AirportsJoinMapper extends Mapper<LongWritable, Text, TextPair, Tex
     @Override
     protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
         String line = value.toString();
+        if (line.contains("code")) return;
         String pattern = "\"(.*)\",\"(.*)\"";
         Pattern r = Pattern.compile(pattern);
         Matcher m = r.matcher(line);
