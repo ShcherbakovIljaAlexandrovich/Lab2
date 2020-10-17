@@ -14,8 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b5a4452-f95f-47aa-80f5-310c144fbcf8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lab2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AvgDelayCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AvgDelayCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstPartitioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstPartitioner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
