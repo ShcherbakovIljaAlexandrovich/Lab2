@@ -13,7 +13,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b5a4452-f95f-47aa-80f5-310c144fbcf8" name="Default Changelist" comment="" />
+    <list default="true" id="9b5a4452-f95f-47aa-80f5-310c144fbcf8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FlightsJoinMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FlightsJoinMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JoinReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JoinReducer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +73,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="381" y="201" width="604" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602973455502">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="381" y="201" width="604" height="402" key="#com.intellij.fileTypes.FileTypeChooser/0.31.1366.737@0.31.1366.737" timestamp="1602973455502" />
     <state x="743" y="268" width="434" height="487" key="FileChooserDialogImpl" timestamp="1602918241647">
       <screen x="0" y="31" width="1920" height="953" />
     </state>
