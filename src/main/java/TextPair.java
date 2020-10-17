@@ -58,4 +58,25 @@ public class TextPair implements WritableComparable<TextPair> {
         }
         return false;
     }
+
+    @Override
+    public String toString() {
+        return first+"\t"+second;
+    }
+
+    @Override
+    public void readFields(DataInput in) throws IOException {
+        first.readFields(in);
+        second.readFields(in);
+    }
+
+    @Override
+    public void write(DataOutput out) throws IOException {
+        first.write(out);
+        second.write(out);
+    }
+
+    public TextPair reverse() {
+        return new TextPair(second,first);
+    }
 }
