@@ -11,6 +11,9 @@ public class JoinReducer extends Reducer<TextPair, Text, Text, IntWritable> {
         Iterator<Text> iter = values.iterator();
         Text airportName = new Text(iter.next());
         if (!iter.hasNext()) return;
+        int min = Integer.parseInt(iter.next().toString());
+        int max = min;
+        int avg = min;
         
     }
 }
