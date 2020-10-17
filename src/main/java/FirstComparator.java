@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class FirstComparator {
+import org.apache.hadoop.io.RawComparator;
+
+public class FirstComparator implements RawComparator {
+    
 }
